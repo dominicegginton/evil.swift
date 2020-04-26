@@ -1,4 +1,4 @@
-# evil-swift
+# evil.swift
 
 > 👿 Evil swift code. Because I can
 
